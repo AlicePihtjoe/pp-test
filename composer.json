@@ -1,4 +1,7 @@
 {
+  "name": "pp-test/pp-test",
+  "description": "For testing purposes only",
+  "license": "MIT",
   "require": {
     "php": ">=8",
     "phpmailer/phpmailer": "^6.8",
